@@ -54,7 +54,7 @@ Model comparison
 Excel report with scored leads
 
 ▶️ How to Run
-python lead_scoring.py
+streamlit run lead_scoring.py
 
 💡 Key Insight
 The model doesn't just perform well statistically — it proves business value, with Hot leads achieving 94.6% actual conversion rate.
