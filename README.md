@@ -2,7 +2,6 @@
 
 📌 Overview
 This project implements a Lead Scoring System using a notebook-style Python workflow.
-
 It processes raw lead data, trains machine learning models, and generates:
 📊 Lead scores (0–100)
 🔥 Lead categories (Hot, Warm, Cold)
@@ -12,6 +11,8 @@ It processes raw lead data, trains machine learning models, and generates:
 Total Leads: 499
 Source: Facebook Ads dataset (facebook_ads.csv)
 Includes engagement, source, and behavioral features
+
+view live: (https://leadscoringproject-4zdbml2fauqqo9kwyzbc2p.streamlit.app/0)
 
 ⚙️ Approach
 The entire pipeline is built in a single Python script (notebook-style):
